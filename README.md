@@ -1,6 +1,6 @@
 # webassembly-webgl-viewer
 
-![image](/web/asset/app.png)
+![image](./web/assset/app.png)
 
 This project demonstrates how to use WebAssembly to create a WebGL viewer. The viewer is implemented as a Rust library that is compiled to WebAssembly. The viewer can be used to display 2D models in a web browser.
 
